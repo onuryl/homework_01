@@ -1,0 +1,432 @@
+* {
+    font-family: 'General Sans', sans-serif;
+  }
+.window{
+    width: 1680px;
+    height: 6876px;
+    border: 2px solid white;
+
+}
+hr{
+    margin: 0px 80px;   
+}
+
+h3{
+   margin: 44px 80px;  
+}
+
+h1{
+     font-size: 265px;
+     text-align: center;
+     margin: 0px 80px;
+}
+.header-down{
+    margin-left: 80px;
+    font-size: 25px;
+    font-style: bold;
+    background-color: black;
+    color: white;
+    padding: 20px;
+    max-width: 1480px;
+}
+
+.main-first{
+    margin: 80px;
+    font-size: 104px;
+    max-width: 736px;
+    
+}
+
+.main-second {
+    margin: 100px 5px;
+    font-size: 18px;
+    max-width: 736px;
+}
+
+.line {
+    margin: 48px 0;
+    width: 1055px;
+}
+
+.line3{
+    margin: 48px 0;
+    width: 1500px;  
+}
+
+.text-1{
+    display: flex;
+}
+
+.corner-label{
+    border: 1px solid black;
+    border-radius: 45px;
+    padding: 5px;   
+}
+
+.main-second-last{
+    display: flex;
+    justify-content: space-between;
+}
+
+.main-image {
+    margin:0px 80px ;  
+    display: flex;
+    flex-direction: column;
+}
+
+.mid{
+    margin: 80px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.arts{
+    width: 1055px;
+    margin: 0px;
+}
+
+.arts-1{
+    display: flex;
+}
+
+.text-1-all{
+    margin: 0px 48px;
+    display: flex;
+    flex-direction: column; 
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28.8px;
+    width: 767px;
+    padding: 0 30px 0 0;
+}
+
+.text-1-all h2 {
+    margin: 0px;
+}
+
+.text-1-all {
+    display: flex;
+    justify-content: space-between;
+}
+
+.text-right-down{
+    display: flex;
+    justify-content: space-between;
+}
+
+.text-right-down p {
+    margin: 0;
+}
+
+.corner-label-art1{
+    display: flex;
+    border: 1px solid black;
+    border-radius: 45px;
+    padding: 8px 12px;
+}
+
+.but-articles{
+    border: none;
+    background-color: white;
+    margin: 96px 0;
+    font-weight: bold;
+    width: 145px;
+    height: 24px;
+}
+
+.mid-side{
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+}
+
+.mid-side h3 {
+    margin: 0;
+}
+
+.mid-side h2 {
+    margin: 0;
+    font-size: 48px;
+}
+.side-image{
+    width: 391px;
+    height: 488px;
+    margin: 32px 0px;
+}
+
+.button-side{
+    background-color: black;
+    color: white;
+    width: 106px;
+    height: 50px;
+    padding: 4px 24px;
+    margin: 0 0 64px 0;
+}
+
+.side-mp{
+    margin: 32px 0 0 0;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 120%;
+    display: flex;
+    flex-direction: row;
+}
+
+.side-number{
+    width: 50px;
+    height: 20px;
+    margin: 0 16px 0 0;
+}
+
+.side-text-down{
+    font-size: 14px;
+    font-weight: normal;
+    font-weight: 400;
+    margin: 16px 0 24px 0;
+}
+
+.side-line{
+    width: 390px;
+    margin: 0 -70px;
+    display: flex;
+    align-items: flex-start;
+}
+
+.box{
+    width: 391px;
+    height: 301px;
+    margin: 64px 0;
+    background-color: #f8f8f8;
+}
+
+.box-2{
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+}
+
+#mail {
+    width: 325px;
+    height: 49px;
+    margin: 16px 0;
+}
+
+::placeholder {
+    font-size: 16px;
+    padding: 15px;
+  }
+  
+.sign{
+    width: 104px;
+    height: 50px;
+    color: white;
+    background-color: black;
+    padding: 4px;
+    align-self: flex-end;
+}  
+
+.podcast {
+    display: flex;
+    margin: 0 80px;
+    align-items: center;
+    justify-content: center;
+}
+
+.pbox {
+    border: 1px solid black;
+    width: 503px;
+    height: 683px;
+    border-right: 0px;   
+}
+
+.pbox2 {
+    border: 1px solid black;
+    width: 503px;
+    height: 683px;
+}
+
+.pimage {
+    margin: 48px 48px 32px 48px;
+}
+
+.ptext {
+    margin: 0 48px;
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 120%;
+}
+
+.ptextd {
+    margin: 48px;
+}
+
+.line2{
+    margin: 248px -1000px;
+    width: 1500px;
+}
+
+
+.authors {
+    display: flex;
+    margin: 0 80px;
+    align-items: center;
+    justify-content: center;
+}
+
+.abox {
+    border: 1px solid black;
+    width: 763px;
+    height: 216px;
+    border-right: 0px;
+    border-bottom: 0px;
+    display: flex;
+    justify-content: flex-start;
+}
+
+.abox2 {
+    border: 1px solid black;
+    width: 763px;
+    height: 216px;
+    border-bottom: 1px;
+}
+
+.abox3 {
+    border: 1px solid black;
+    width: 763px;
+    height: 216px;
+    display: flex;
+    justify-content: flex-start;
+}
+.abox4 {
+    border: 1px solid black;
+    width: 763px;
+    height: 216px;
+    border-right: 0px;
+}
+
+.a1i {
+    border-radius: 90px;
+    margin: 32px;
+    display: flex;
+   
+}
+
+.a1text{
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 120%;
+    margin: 0px;
+}
+
+.a1texta{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 0 48px;
+}
+
+.abox2 {
+    display: flex;
+    align-items: center;
+}
+
+.a2text{
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 120%;
+    margin: 0px;
+}
+
+.a2texta{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 0 48px;
+}
+
+.a3text{
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 120%;
+    margin: 0px;
+}
+
+.a3texta{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 0 48px;
+    align-items:center ;
+}
+
+.header-down2{
+    margin-top: 80px;
+    font-size: 25px;
+    font-style: bold;
+    background-color: black;
+    color: white;
+    padding: 20px;
+    max-width: 1640px;
+}
+
+.footer {
+    width: 1680px;
+    background-color: black;
+    height: 830px;
+}
+
+.footer1{
+    color: white;
+    font-size: 80px;
+    width: 1480px;
+    font-weight: 600;
+    line-height: 110%;
+    margin: 0 80px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;   
+}
+
+#email2 {
+    height: 50px;
+    width: 309px;
+    font-size: 14px;
+    font-weight: 500;   
+}
+
+.footer2 {
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 80px 96px 80px;
+}
+
+.nav {
+    display: flex;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 180%;
+}
+
+.nav1{
+    width: 294px;
+}
+
+.footer3 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 80px 65px;
+}
+
+
+
+
+
+
+
+
+
+
+
